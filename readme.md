@@ -28,7 +28,7 @@ This repository hosts a 🌈 Streamlit application that leverages the 🦙 Ollam
    Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/neerajkhatri04/ollama-chatbot-langchain/your-repository-name.git
+   git clone https://github.com/neerajkhatri04/ollama-chatbot-langchain.git
    cd ollama-chatbot-langchain
    ```
 
